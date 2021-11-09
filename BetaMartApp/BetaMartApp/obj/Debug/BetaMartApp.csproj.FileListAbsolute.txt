@@ -1,0 +1,10 @@
+D:\SMK\UKK PBO_Sekar\BetaMartApp\BetaMartApp\bin\Debug\BetaMartApp.exe.config
+D:\SMK\UKK PBO_Sekar\BetaMartApp\BetaMartApp\bin\Debug\BetaMartApp.exe
+D:\SMK\UKK PBO_Sekar\BetaMartApp\BetaMartApp\bin\Debug\BetaMartApp.pdb
+D:\SMK\UKK PBO_Sekar\BetaMartApp\BetaMartApp\obj\Debug\BetaMartApp.csproj.AssemblyReference.cache
+D:\SMK\UKK PBO_Sekar\BetaMartApp\BetaMartApp\obj\Debug\BetaMartApp.Form1.resources
+D:\SMK\UKK PBO_Sekar\BetaMartApp\BetaMartApp\obj\Debug\BetaMartApp.Properties.Resources.resources
+D:\SMK\UKK PBO_Sekar\BetaMartApp\BetaMartApp\obj\Debug\BetaMartApp.csproj.GenerateResource.cache
+D:\SMK\UKK PBO_Sekar\BetaMartApp\BetaMartApp\obj\Debug\BetaMartApp.csproj.CoreCompileInputs.cache
+D:\SMK\UKK PBO_Sekar\BetaMartApp\BetaMartApp\obj\Debug\BetaMartApp.exe
+D:\SMK\UKK PBO_Sekar\BetaMartApp\BetaMartApp\obj\Debug\BetaMartApp.pdb
